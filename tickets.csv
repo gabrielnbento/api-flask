@@ -1,0 +1,151 @@
+Numero_do_Voo,Companhia_Aerea,Origem,Destino,Data_do_Voo,Horario_de_Partida,Horario_de_Chegada,Preco
+R487,Air Brazil,Salvador,São Paulo,2025-01-20,22:52,03:52,835.66
+U152,TopWings,São Paulo,Manaus,2025-01-21,09:05,10:05,1358.32
+N549,GreenWings,Fortaleza,Curitiba,2025-01-27,10:30,12:30,997.02
+A295,Sunrise Air,Manaus,Goiânia,2025-01-12,13:20,14:20,1187.73
+G802,Air Brazil,Salvador,Goiânia,2025-01-25,09:17,10:17,868.4
+C955,TopWings,Belém,São Paulo,2025-01-15,16:27,17:27,1367.67
+E743,GreenWings,Brasília,Curitiba,2025-01-10,23:05,03:05,1178.28
+A704,Air Brazil,Goiânia,Natal,2025-01-28,07:36,10:36,940.38
+G268,BlueAir,Goiânia,São Paulo,2025-01-20,12:06,13:06,414.52
+U215,Air Brazil,Recife,Brasília,2025-01-24,11:04,12:04,1460.26
+Z783,Sunrise Air,Brasília,Rio de Janeiro,2025-01-15,16:15,19:15,1331.01
+Z330,Sunrise Air,Brasília,Fortaleza,2025-01-27,02:31,07:31,301.88
+Y368,BlueAir,Salvador,Natal,2025-01-09,22:47,01:47,1462.9
+S933,GreenWings,Goiânia,Belém,2025-01-28,22:49,01:49,1309.97
+L980,Sunrise Air,Fortaleza,Curitiba,2025-01-18,22:11,01:11,805.26
+N271,TopWings,Belo Horizonte,Goiânia,2025-01-22,02:50,06:50,384.83
+H645,GreenWings,Belo Horizonte,Belém,2025-01-21,06:30,08:30,1443.35
+X598,Sunrise Air,Brasília,Belém,2025-01-03,10:32,14:32,246.37
+O400,SkyHigh,Belo Horizonte,Rio de Janeiro,2025-01-25,02:44,03:44,763.02
+G685,SkyHigh,João Pessoa,Belém,2025-01-22,16:06,17:06,1392.81
+S633,FastFly,Curitiba,Florianópolis,2025-01-11,09:02,11:02,369.23
+B267,BlueAir,Natal,Salvador,2025-01-13,21:48,23:48,1105.31
+N185,Air Brazil,Belo Horizonte,Florianópolis,2025-01-28,17:34,22:34,1276.55
+F774,BlueAir,Recife,Rio de Janeiro,2025-01-01,17:41,22:41,526.92
+H428,BlueAir,Goiânia,Belém,2025-01-11,17:03,19:03,908.73
+K520,Sunrise Air,Brasília,Porto Alegre,2025-01-03,11:42,15:42,851.69
+U186,TopWings,Belo Horizonte,Natal,2025-01-24,02:19,04:19,903.61
+E390,SkyHigh,Natal,Fortaleza,2025-01-06,08:42,12:42,1409.52
+Q680,Sunrise Air,Belo Horizonte,São Paulo,2025-01-13,17:42,22:42,726.03
+P963,TopWings,Belo Horizonte,São Paulo,2025-01-28,07:59,08:59,845.38
+M605,TopWings,Belém,Curitiba,2025-01-15,22:51,00:51,285.56
+J499,BlueAir,Manaus,Rio de Janeiro,2025-01-06,23:19,00:19,715.55
+Y743,BlueAir,Belo Horizonte,Rio de Janeiro,2025-01-03,04:30,09:30,604.08
+H959,SkyHigh,Belo Horizonte,São Paulo,2025-01-07,13:43,15:43,1108.6
+N988,TopWings,Belo Horizonte,Fortaleza,2025-01-09,14:30,16:30,531.52
+I957,Air Brazil,Florianópolis,Goiânia,2025-01-01,19:34,00:34,1305.54
+O772,FastFly,Recife,Curitiba,2025-01-23,16:17,18:17,1055.86
+I721,SkyHigh,Porto Alegre,São Paulo,2025-01-26,15:27,18:27,1041.53
+R457,Sunrise Air,Rio de Janeiro,Porto Alegre,2025-01-14,08:34,10:34,304.27
+E667,Sunrise Air,Porto Alegre,Brasília,2025-01-10,02:03,03:03,504.93
+M743,Sunrise Air,Manaus,Curitiba,2025-01-15,09:39,11:39,286.96
+W683,TopWings,Fortaleza,Natal,2025-01-05,03:33,04:33,648.51
+X634,Sunrise Air,Curitiba,Manaus,2025-01-05,01:08,03:08,1175.92
+D217,Sunrise Air,Manaus,São Paulo,2025-01-05,18:58,23:58,1148.68
+N587,TopWings,Brasília,São Paulo,2025-01-13,11:38,15:38,1088.92
+G671,GreenWings,Curitiba,Recife,2025-01-16,09:44,14:44,419.35
+G331,Air Brazil,João Pessoa,Curitiba,2025-01-24,22:49,01:49,676.34
+I695,TopWings,Belém,Recife,2025-01-26,16:16,17:16,785.2
+L857,Sunrise Air,Porto Alegre,São Paulo,2025-01-17,07:05,09:05,464.38
+F463,TopWings,Recife,São Paulo,2025-01-06,02:33,03:33,376.36
+M211,SkyHigh,Recife,Belém,2025-01-11,04:15,05:15,1258.89
+T482,GreenWings,Curitiba,Porto Alegre,2025-01-25,23:54,00:54,1436.81
+C382,BlueAir,Brasília,João Pessoa,2025-01-24,10:35,11:35,512.43
+P267,Air Brazil,Manaus,Curitiba,2025-01-15,19:14,22:14,511.88
+R872,Air Brazil,Belo Horizonte,Rio de Janeiro,2025-01-12,17:27,20:27,475.47
+X867,Air Brazil,Manaus,São Paulo,2025-01-06,21:39,00:39,1126.43
+H331,BlueAir,São Paulo,Salvador,2025-01-31,11:05,16:05,1030.06
+D810,Air Brazil,Rio de Janeiro,Manaus,2025-01-25,02:25,04:25,638.77
+O769,BlueAir,Brasília,Belo Horizonte,2025-01-31,18:00,22:00,615.0
+L219,Sunrise Air,João Pessoa,Belém,2025-01-28,13:20,15:20,993.31
+J219,FastFly,Natal,Brasília,2025-01-02,07:27,11:27,874.59
+K890,Air Brazil,Fortaleza,Goiânia,2025-01-12,05:43,10:43,1222.95
+G925,GreenWings,Salvador,Porto Alegre,2025-01-09,02:28,03:28,375.83
+X912,BlueAir,Belo Horizonte,Belém,2025-01-15,03:55,06:55,427.1
+R564,SkyHigh,João Pessoa,Florianópolis,2025-01-23,13:45,15:45,645.84
+E419,FastFly,Salvador,João Pessoa,2025-01-03,03:49,07:49,1388.83
+X574,SkyHigh,Belo Horizonte,Manaus,2025-01-23,01:15,04:15,1090.87
+E438,SkyHigh,Belém,Belo Horizonte,2025-01-09,07:01,11:01,1295.81
+S639,TopWings,Florianópolis,Belém,2025-01-20,04:30,07:30,1125.44
+T123,SkyHigh,Natal,São Paulo,2025-01-15,16:01,21:01,1266.39
+P269,BlueAir,Belo Horizonte,Fortaleza,2025-01-24,00:13,04:13,554.66
+O714,TopWings,Curitiba,João Pessoa,2025-01-09,07:12,09:12,839.08
+K578,Air Brazil,Belo Horizonte,João Pessoa,2025-01-02,18:58,23:58,1005.56
+X770,Sunrise Air,Recife,Belo Horizonte,2025-01-14,20:07,22:07,545.91
+P506,Air Brazil,Goiânia,Curitiba,2025-01-11,20:55,01:55,951.83
+I347,TopWings,Salvador,Belo Horizonte,2025-01-11,06:57,10:57,832.64
+K157,SkyHigh,São Paulo,Salvador,2025-01-22,12:36,14:36,847.17
+X485,FastFly,Porto Alegre,Belém,2025-01-08,15:58,18:58,1079.54
+S791,FastFly,Manaus,Belém,2025-01-29,09:21,13:21,945.94
+N995,GreenWings,Rio de Janeiro,São Paulo,2025-01-23,19:50,00:50,1096.49
+M107,Air Brazil,Manaus,Belém,2025-01-29,17:17,21:17,481.57
+M960,SkyHigh,Porto Alegre,Salvador,2025-01-09,22:09,02:09,1124.73
+W850,GreenWings,Manaus,Porto Alegre,2025-01-17,21:07,23:07,980.25
+O907,GreenWings,São Paulo,Belém,2025-01-02,09:38,14:38,1339.81
+T713,FastFly,Rio de Janeiro,Porto Alegre,2025-01-10,02:35,07:35,1050.12
+H407,FastFly,Goiânia,Porto Alegre,2025-01-11,13:36,14:36,930.24
+B811,TopWings,Brasília,Natal,2025-01-07,16:55,20:55,1494.24
+F325,FastFly,São Paulo,Florianópolis,2025-01-26,08:51,10:51,394.47
+K921,SkyHigh,Goiânia,Fortaleza,2025-01-11,06:49,07:49,1234.66
+F741,GreenWings,Belém,Natal,2025-01-18,04:28,07:28,278.24
+O480,FastFly,Manaus,Florianópolis,2025-01-23,13:31,15:31,612.16
+Y942,Sunrise Air,Curitiba,São Paulo,2025-01-02,16:24,17:24,826.06
+Y173,Sunrise Air,Manaus,Natal,2025-01-07,05:53,06:53,1279.49
+Y629,SkyHigh,Manaus,Goiânia,2025-01-11,06:32,10:32,959.08
+A168,GreenWings,Brasília,Manaus,2025-01-07,11:35,13:35,823.57
+B827,SkyHigh,Salvador,Porto Alegre,2025-01-05,02:01,03:01,1280.15
+K353,BlueAir,Brasília,Goiânia,2025-01-10,15:44,20:44,231.4
+O525,FastFly,Florianópolis,Rio de Janeiro,2025-01-16,11:41,12:41,203.73
+N396,TopWings,Rio de Janeiro,Fortaleza,2025-01-27,16:05,20:05,543.1
+P248,GreenWings,Manaus,Belo Horizonte,2025-01-27,21:39,02:39,979.03
+W834,GreenWings,Fortaleza,Porto Alegre,2025-01-15,02:53,07:53,444.71
+Q876,Air Brazil,Manaus,João Pessoa,2025-01-08,23:26,00:26,1415.92
+X851,FastFly,Curitiba,Salvador,2025-01-19,03:18,08:18,503.63
+G569,FastFly,Belo Horizonte,Goiânia,2025-01-20,17:39,21:39,1143.3
+Y477,SkyHigh,João Pessoa,Curitiba,2025-01-31,04:23,06:23,336.55
+D619,TopWings,Fortaleza,Porto Alegre,2025-01-18,05:00,08:00,982.16
+L161,BlueAir,Manaus,Goiânia,2025-01-12,20:03,00:03,964.59
+N969,Sunrise Air,Recife,Curitiba,2025-01-19,21:49,01:49,1376.73
+X765,Sunrise Air,Natal,Curitiba,2025-01-03,06:54,07:54,947.13
+X346,Sunrise Air,Belém,Rio de Janeiro,2025-01-20,16:18,18:18,507.23
+K532,BlueAir,Florianópolis,Salvador,2025-01-03,22:09,00:09,428.6
+V703,Air Brazil,Florianópolis,Curitiba,2025-01-11,18:47,23:47,1479.5
+R260,GreenWings,São Paulo,Belo Horizonte,2025-01-29,23:15,04:15,412.3
+G438,Sunrise Air,Florianópolis,Belém,2025-01-10,19:16,00:16,959.48
+B471,Air Brazil,João Pessoa,Florianópolis,2025-01-08,17:26,18:26,1154.91
+P273,Air Brazil,Curitiba,João Pessoa,2025-01-16,23:02,04:02,752.02
+H342,GreenWings,Goiânia,São Paulo,2025-01-04,14:34,16:34,746.19
+U585,FastFly,Rio de Janeiro,Goiânia,2025-01-18,02:50,05:50,247.0
+W582,BlueAir,Rio de Janeiro,Salvador,2025-01-17,23:11,01:11,303.9
+T720,FastFly,Curitiba,São Paulo,2025-01-27,12:57,17:57,1183.79
+S758,SkyHigh,Curitiba,Belém,2025-01-17,08:39,13:39,671.68
+U641,FastFly,Curitiba,Goiânia,2025-01-07,19:36,20:36,476.06
+P658,FastFly,Goiânia,Salvador,2025-01-06,15:08,20:08,1110.17
+C289,BlueAir,Belém,Goiânia,2025-01-22,02:47,03:47,507.59
+U289,BlueAir,João Pessoa,São Paulo,2025-01-05,13:54,16:54,860.42
+L228,Air Brazil,Curitiba,Natal,2025-01-23,05:55,09:55,942.46
+E432,TopWings,São Paulo,Salvador,2025-01-09,01:31,04:31,579.81
+P637,FastFly,Florianópolis,Belo Horizonte,2025-01-17,19:06,23:06,259.18
+D319,Air Brazil,Curitiba,Recife,2025-01-11,07:11,11:11,1367.66
+X376,SkyHigh,Curitiba,Rio de Janeiro,2025-01-28,14:44,18:44,775.03
+M809,Air Brazil,São Paulo,João Pessoa,2025-01-29,12:21,14:21,1286.31
+S778,SkyHigh,Florianópolis,Manaus,2025-01-31,07:40,09:40,928.55
+O456,TopWings,Rio de Janeiro,São Paulo,2025-01-20,19:30,22:30,685.43
+E639,FastFly,Belém,Fortaleza,2025-01-13,04:10,08:10,226.37
+S301,Sunrise Air,Belém,Belo Horizonte,2025-01-11,04:20,05:20,359.95
+D474,BlueAir,Manaus,São Paulo,2025-01-12,21:39,02:39,1380.62
+F152,Air Brazil,Salvador,Manaus,2025-01-09,21:28,23:28,422.32
+E216,Sunrise Air,Rio de Janeiro,Fortaleza,2025-01-24,15:26,17:26,1344.5
+D564,GreenWings,Natal,Salvador,2025-01-19,19:55,20:55,376.0
+I516,Sunrise Air,Fortaleza,Recife,2025-01-01,16:41,17:41,1069.15
+A892,SkyHigh,Belo Horizonte,João Pessoa,2025-01-12,04:38,05:38,1396.78
+L388,FastFly,Manaus,Belém,2025-01-10,06:31,11:31,1044.27
+Y532,Air Brazil,Rio de Janeiro,Natal,2025-01-14,00:23,04:23,1285.61
+U643,Air Brazil,Recife,Curitiba,2025-01-17,21:20,22:20,938.37
+K589,FastFly,Natal,Belém,2025-01-08,06:40,07:40,890.45
+S119,TopWings,São Paulo,João Pessoa,2025-01-08,10:00,15:00,1369.14
+I892,GreenWings,Curitiba,João Pessoa,2025-01-22,17:27,19:27,897.46
+G555,SkyHigh,Belo Horizonte,Manaus,2025-01-12,18:16,22:16,887.93
+H485,SkyHigh,Goiânia,Florianópolis,2025-01-02,00:52,05:52,1204.46
+D805,FastFly,Porto Alegre,Recife,2025-01-27,01:59,03:59,411.1
