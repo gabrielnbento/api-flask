@@ -5,7 +5,7 @@ from flask_cors import CORS
 
 app = Flask(__name__)
 CORS(app)
-df = pd.read_csv('tickets.csv')
+df = pd.read_csv('./dataframes/tickets.csv')
 
 @app.route('/')
 def index():
